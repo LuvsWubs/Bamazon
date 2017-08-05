@@ -1,0 +1,26 @@
+{
+  "name": "Bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuvsWubs/Bamazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuvsWubs/Bamazon/issues"
+  },
+  "homepage": "https://github.com/LuvsWubs/Bamazon#readme",
+  "dependencies": {
+    "columnify": "^1.5.4",
+    "inquirer": "^3.2.1",
+    "mysql": "^2.14.1"
+  }
+}
